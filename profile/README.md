@@ -16,5 +16,5 @@ Welcome to the Canadian Ocean Modelling GitHub, which is part of the efforts of 
 
 ## How to contribute
 
-- COM_repositories_management- Issues on coordination and administrative topics for the Canadian Ocean Modelling (COM) GitHub
-- COM_technical_issues- Repository for technical developments, issues and bugs.
+- [COM_repositories_management](https://github.com/Canadian-Ocean-Modelling-COM/COM_repositories_management)- Issues on coordination and administrative topics for the Canadian Ocean Modelling (COM) GitHub
+- [COM_modelling-Forum](https://github.com/Canadian-Ocean-Modelling-COM/COM_modelling-forum)- Repository for technical developments, issues and bugs.
